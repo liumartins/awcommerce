@@ -1,0 +1,16 @@
+## Git Ignore ##
+/wp-config.php
+
+
+
+
+### hidden files
+/.htaccess
+
+
+
+### compact files
+*.zip
+*.sql
+*.tgz
+*.gz
