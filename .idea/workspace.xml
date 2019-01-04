@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="446aeaf1-4f3f-4059-b627-db4130e2f02b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/Parallax-One/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/Parallax-One/front-page.php" afterDir="false" />
-    </list>
+    <list default="true" id="446aeaf1-4f3f-4059-b627-db4130e2f02b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="202">
-              <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
               <folding>
                 <element signature="e#6#419#0#PHP" expanded="true" />
               </folding>
@@ -29,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/content.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+              <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -38,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="206">
-              <caret line="25" column="254" lean-forward="true" selection-start-line="25" selection-start-column="254" selection-end-line="25" selection-end-column="254" />
+              <caret line="25" column="254" selection-start-line="25" selection-start-column="254" selection-end-line="25" selection-end-column="254" />
             </state>
           </provider>
         </entry>
@@ -167,12 +164,12 @@
       <workItem from="1543428071227" duration="1219000" />
       <workItem from="1546002656337" duration="3620000" />
       <workItem from="1546563298888" duration="107000" />
-      <workItem from="1546608476423" duration="2670000" />
+      <workItem from="1546608476423" duration="3996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17114000" />
+    <option name="totallyTimeSpent" value="18440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1297" height="780" extended-state="6" />
@@ -333,7 +330,7 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
-          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
           <folding>
             <element signature="e#6#419#0#PHP" expanded="true" />
           </folding>
@@ -358,14 +355,14 @@
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/content.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+          <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
-          <caret line="25" column="254" lean-forward="true" selection-start-line="25" selection-start-column="254" selection-end-line="25" selection-end-column="254" />
+          <caret line="25" column="254" selection-start-line="25" selection-start-column="254" selection-end-line="25" selection-end-column="254" />
         </state>
       </provider>
     </entry>
